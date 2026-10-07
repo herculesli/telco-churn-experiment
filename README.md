@@ -25,7 +25,6 @@ A logistic regression model identifies subscribers likely to churn, and a full e
 
 ## Why this project?
 
-Four signals this repo is meant to send:
 
 1. **Problem framing.** The model is a means, not the deliverable. The deliverable is a decision framework that tells the business what to ship.
 2. **Tradeoff fluency.** Logistic regression over XGBoost is a deliberate explainability tradeoff. 89% recall at the cost of 43% precision is a deliberate intervention-cost tradeoff. Both are defended in writing.
